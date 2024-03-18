@@ -5,5 +5,5 @@
 
 > Unity version - 2022.1.0f1
 
-**para jugar en movil, con tres niveles en tableros de 19x19, 13x13 y 9x9.
+**Para jugar en movil, con tres niveles en tableros de 19x19, 13x13 y 9x9.
 
